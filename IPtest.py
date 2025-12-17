@@ -84,20 +84,19 @@ logger = logging.getLogger(__name__)
 CONFIG = {
     # 📥 IP源配置 - 多API源并发采集获取IP地址
     "ip_sources": [
-        'https://cf.hyli.xyz/', # 行雺
-        'https://raw.githubusercontent.com/ymyuuu/IPDB/main/BestCF/bestcfv4.txt', # Ymyuuu
-        'https://ipdb.api.030101.xyz/?type=bestcf&country=true', # Ymyuuu（备用）
+        # 'https://cf.hyli.xyz/', # 行雺
+        # 'https://raw.githubusercontent.com/ymyuuu/IPDB/main/BestCF/bestcfv4.txt', # Ymyuuu
+        # 'https://ipdb.api.030101.xyz/?type=bestcf&country=true', # Ymyuuu（备用）
         'https://api.uouin.com/cloudflare.html', # 麒麟
         'https://api.urlce.com/cloudflare.html', # 麒麟（备用）
         'https://addressesapi.090227.xyz/CloudFlareYes', # Hostmonit
         'https://cf.090227.xyz/CloudFlareYes', # Hostmonit（备用）
         # 'https://stock.hostmonit.com/CloudFlareYes', # Hostmonit
         # 'https://ipdb.api.030101.xyz/?type=bestproxy&country=true', # Mingyu
-        'https://ip.haogege.xyz/', # 好哥哥
         'https://vps789.com/openApi/cfIpTop20', # VPS789-综合排名前20
         'https://vps789.com/openApi/cfIpApi', # VPS789-动态获取接口
         'https://hhhhh.eu.org/vps789.txt', # VPS789（备用）
-        'https://www.wetest.vip/page/cloudflare/address_v4.html', # 微测网
+        # 'https://www.wetest.vip/page/cloudflare/address_v4.html', # 微测网
         'https://www.wetest.vip/page/cloudflare/total_v4.html',   # 微测网 
         'https://cf.090227.xyz/cmcc', # CMLiussss-电信
         'https://cf.090227.xyz/ct', # CMLiussss-移动
