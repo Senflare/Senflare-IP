@@ -95,7 +95,6 @@ CONFIG = {
         # 'https://ipdb.api.030101.xyz/?type=bestproxy&country=true', # Mingyu
         'https://vps789.com/openApi/cfIpTop20', # VPS789-综合排名前20
         'https://vps789.com/openApi/cfIpApi', # VPS789-动态获取接口
-        'https://hhhhh.eu.org/vps789.txt', # VPS789（备用）
         # 'https://www.wetest.vip/page/cloudflare/address_v4.html', # 微测网
         'https://www.wetest.vip/page/cloudflare/total_v4.html',   # 微测网 
         'https://cf.090227.xyz/cmcc', # CMLiussss-电信
